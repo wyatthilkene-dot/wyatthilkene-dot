@@ -1,0 +1,5 @@
+cd /Users/wyatthilkene/wyatthilkene-dot
+git add README.md
+git commit -m "Add profile README"
+git remote add origin https://github.com/wyatthilkene-dot/wyatthilkene-dot.git
+git push -u origin main
