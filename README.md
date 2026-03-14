@@ -2,7 +2,7 @@
 
 **Revenue Operations & GTM Systems | Python | Data Infrastructure**
 
-I build operational infrastructure that makes go-to-market teams scale — data pipelines, scoring models, automation workflows, and the systems that connect strategy to execution.
+I build operational infrastructure that makes go-to-market teams scale - data pipelines, scoring models, automation workflows, and the systems that connect strategy to execution.
 
 ## What I'm Working On
 
