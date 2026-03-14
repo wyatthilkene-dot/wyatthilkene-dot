@@ -16,6 +16,6 @@ I build operational infrastructure that makes go-to-market teams scale - data pi
 
 ## About Me
 
-I run [Feral Golf](https://feralgolf.com), a golf accessories brand, alongside my RevOps/GTM work. I'm based in Los Angeles.
+I run [Feral Golf](https://feralgolfshop.com), a golf accessories brand, alongside my RevOps/GTM work. I'm based in Los Angeles.
 
-📫 Reach me: [your email here]
+📫 Reach me: [wyatt.hilkene@gmail.com]
