@@ -9,10 +9,11 @@ I build operational infrastructure that makes go-to-market teams scale - data pi
 - 🏗️ **RevOps Automation** — Tools for lead scoring, PQL models, and GTM pipeline orchestration built on Snowflake, Salesforce, and Reverse ETL patterns
 - 📊 **Equity Research Agent** — Autonomous stock portfolio monitoring system using institutional analyst frameworks
 - 🏠 **Real Estate Analysis Tools** — Market analysis and deal evaluation utilities for LA-area investment opportunities
+- ⛳ **Feral Golf** — from product development and content production to go-to-market strategy and growth infrastructure
 
 ## Tech I Work With
 
-`Python` · `SQL` · `Snowflake` · `Salesforce` · `dbt` · `Hightouch / Census` · `Clay` · `Pandas` · `APIs & Webhooks`
+`Python` · `SQL` · `Snowflake` · `Salesforce` · `dbt` · `Hightouch / Census` · `Clay` · `Pandas` · `APIs & Webhooks` 'Claude Code' "GPT Codex"
 
 ## About Me
 
